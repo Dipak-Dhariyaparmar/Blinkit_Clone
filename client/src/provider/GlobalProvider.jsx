@@ -49,7 +49,7 @@ const GlobalProvider = ({ children }) => {
       const { data: responseData } = response;
 
       if (responseData.success) {
-        // toast.success(responseData.message) this is a optional
+        // toast.success(responseData.message)
         fetchCartItem();
         return responseData;
       }

@@ -145,4 +145,3 @@ const router = createBrowserRouter([
 ]);
 
 export default router;
-// this file is a case baded on the file client/src/route/index.jsx
