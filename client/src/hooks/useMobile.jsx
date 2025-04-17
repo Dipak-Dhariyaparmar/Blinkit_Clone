@@ -1,24 +1,25 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState } from "react";
 
-const useMobile = (breakpoint = 768)=>{
-    const [isMobile,setIsMobile] = useState(window.innerWidth < breakpoint)
+const useMobile = (breakpoint = 768) => {
+  const [isMobile, setIsMobile] = useState(window.innerWidth < breakpoint);
 
-    const handleResize = ()=>{
-        const checkpoint = window.innerWidth < breakpoint
-        setIsMobile(checkpoint)
-    }
+  const handleResize = () => {
+    const checkpoint = window.innerWidth < breakpoint;
+    setIsMobile(checkpoint);
+  };
 
-    useEffect(()=>{
-        handleResize()
+  useEffect(() => {
+    handleResize();
 
-        window.addEventListener('resize',handleResize)
+    window.addEventListener("resize", handleResize);
 
-        return ()=>{
-            window.removeEventListener('resize',handleResize)
-        }
-    },[])
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
 
-    return [ isMobile ]
-}
+  return [isMobile];
+};
 
-export default useMobile
+export default useMobile;
+// this is a use mobile hooks
