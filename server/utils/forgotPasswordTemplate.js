@@ -1,5 +1,5 @@
-const forgotPasswordTemplate = ({ name, otp })=>{
-    return `
+const forgotPasswordTemplate = ({ name, otp }) => {
+  return `
 <div>
     <p>Dear, ${name}</p>
     <p>You're requested a password reset. Please use following OTP code to reset your password.</p>
@@ -12,7 +12,7 @@ const forgotPasswordTemplate = ({ name, otp })=>{
     <p>Thanks</p>
     <p>Binkeyit</p>
 </div>
-    `
-}
+    `;
+};
 
-export default forgotPasswordTemplate
+export default forgotPasswordTemplate;
