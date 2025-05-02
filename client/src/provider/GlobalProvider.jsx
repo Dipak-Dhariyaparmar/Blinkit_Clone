@@ -159,3 +159,7 @@ const GlobalProvider = ({ children }) => {
 };
 
 export default GlobalProvider;
+// this component is used to provide global context to the application
+// it is used to fetch cart item, update cart item, delete cart item, fetch address and fetch order
+// it is also used to provide total price, total quantity and not discount total price to the application
+// it is used to provide handleLogoutOut function to the application
