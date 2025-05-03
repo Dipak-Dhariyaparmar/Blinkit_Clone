@@ -22,4 +22,3 @@ const useMobile = (breakpoint = 768) => {
 };
 
 export default useMobile;
-// this is a use mobile hooks
