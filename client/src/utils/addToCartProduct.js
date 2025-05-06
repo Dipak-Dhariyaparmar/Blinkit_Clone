@@ -43,3 +43,4 @@ export const getCartItems = async () => {
     return error;
   }
 };
+// this component is a addtocard functionality

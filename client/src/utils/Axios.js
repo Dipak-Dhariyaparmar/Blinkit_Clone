@@ -68,3 +68,4 @@ const refreshAccessToken = async (refreshToken) => {
 };
 
 export default Axios;
+// this component is a axios instance
