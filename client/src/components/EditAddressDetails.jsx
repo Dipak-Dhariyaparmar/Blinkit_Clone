@@ -129,3 +129,5 @@ const EditAddressDetails = ({ close, data }) => {
 };
 
 export default EditAddressDetails;
+
+// this code is a React component that allows users to edit their address details. It uses the react-hook-form library for form handling and Axios for making API requests. The component includes a form with fields for address line, city, state, pincode, country, and mobile number. When the form is submitted, it sends a request to update the address in the database and provides feedback to the user using toast notifications. The component also includes a close button to dismiss the form.

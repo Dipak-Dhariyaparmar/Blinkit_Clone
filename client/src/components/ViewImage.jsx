@@ -19,3 +19,5 @@ const ViewImage = ({ url, close }) => {
 };
 
 export default ViewImage;
+
+// this component is used to display an image in full screen when clicked on a thumbnail or smaller version of the image. It takes in a URL for the image and a close function to hide the modal when the user clicks the close button.

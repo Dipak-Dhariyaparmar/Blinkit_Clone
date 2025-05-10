@@ -45,7 +45,6 @@ const AddToCartButton = ({ data }) => {
     }
   };
 
-  //checking this item in cart or not
   useEffect(() => {
     const checkingitem = cartItem.some(
       (item) => item.productId._id === data._id
