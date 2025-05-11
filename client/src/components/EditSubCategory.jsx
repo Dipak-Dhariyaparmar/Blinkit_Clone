@@ -206,3 +206,5 @@ const EditSubCategory = ({ close, data, fetchData }) => {
 };
 
 export default EditSubCategory;
+
+// this component is a editsubcategoryform

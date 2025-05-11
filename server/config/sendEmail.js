@@ -28,3 +28,5 @@ const sendEmail = async ({ sendTo, subject, html }) => {
 };
 
 export default sendEmail;
+
+// this component is a send a mail file

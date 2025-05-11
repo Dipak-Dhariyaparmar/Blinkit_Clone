@@ -8,7 +8,7 @@ import CardProduct from "./CardProduct";
 import { FaAngleLeft, FaAngleRight } from "react-icons/fa6";
 import { useSelector } from "react-redux";
 import { valideURLConvert } from "../utils/valideURLConvert";
-// this page is a category wise product display page
+
 const CategoryWiseProductDisplay = ({ id, name }) => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -115,3 +115,5 @@ const CategoryWiseProductDisplay = ({ id, name }) => {
 };
 
 export default CategoryWiseProductDisplay;
+
+// this page is a category wise product display page
