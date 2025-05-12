@@ -324,5 +324,3 @@ export const searchProduct = async (request, response) => {
     });
   }
 };
-
-// this controller is used to get all product
