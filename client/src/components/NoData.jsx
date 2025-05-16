@@ -11,3 +11,5 @@ const NoData = () => {
 };
 
 export default NoData;
+
+// this file is to show a no data avilable in this file
