@@ -13,3 +13,5 @@ uploadRouter.post(
 );
 
 export default uploadRouter;
+
+// this route is a uploading image related

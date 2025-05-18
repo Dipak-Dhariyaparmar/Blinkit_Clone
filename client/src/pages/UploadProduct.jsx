@@ -400,7 +400,7 @@ const UploadProduct = () => {
                   type="text"
                   value={data?.more_details[k]}
                   onChange={(e) => {
-                    const value = e.target.value;
+                    const { value } = e.target;
                     setData((preve) => {
                       return {
                         ...preve,
@@ -448,3 +448,5 @@ const UploadProduct = () => {
 };
 
 export default UploadProduct;
+
+// this component is a upload a different  product related

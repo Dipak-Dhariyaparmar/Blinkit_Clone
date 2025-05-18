@@ -25,3 +25,5 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
+
+// this component is a dashbaord
