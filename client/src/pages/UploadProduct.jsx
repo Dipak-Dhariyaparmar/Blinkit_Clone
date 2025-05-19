@@ -448,5 +448,3 @@ const UploadProduct = () => {
 };
 
 export default UploadProduct;
-
-// this component is a upload a different  product related

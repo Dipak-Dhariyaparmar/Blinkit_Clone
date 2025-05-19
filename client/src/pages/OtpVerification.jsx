@@ -119,3 +119,5 @@ const OtpVerification = () => {
 };
 
 export default OtpVerification;
+
+// this component handles the OTP verification process for password reset.
