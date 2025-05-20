@@ -184,3 +184,5 @@ const SubCategoryPage = () => {
 };
 
 export default SubCategoryPage;
+
+// this code defines a React component called `SubCategoryPage` that manages the display and editing of subcategories in an application. It uses various hooks and components to handle state, fetch data from an API, and render a table of subcategories with options to add, edit, or delete them. The component also includes functionality for viewing images and confirming deletion actions.
