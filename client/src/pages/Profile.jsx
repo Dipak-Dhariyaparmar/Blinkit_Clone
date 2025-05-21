@@ -133,4 +133,3 @@ const Profile = () => {
 };
 
 export default Profile;
-// this code defines a React component called `Profile` that allows users to view and edit their profile information. It uses Redux to manage the user's state and Axios to make API requests. The component includes a profile picture, which can be edited, and a form for updating the user's name, email, and mobile number. The form submission is handled asynchronously, and success or error messages are displayed using toast notifications. The component also includes loading state management to indicate when the form is being submitted.

@@ -131,5 +131,3 @@ const UserMenu = ({ close }) => {
 };
 
 export default UserMenu;
-
-// this component is a show to a user menu list

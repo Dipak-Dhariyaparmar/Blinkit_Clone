@@ -31,5 +31,3 @@ const MyOrders = () => {
 };
 
 export default MyOrders;
-
-// this is a simple React component that displays a list of orders.

@@ -36,5 +36,3 @@ const Product = () => {
 };
 
 export default Product;
-
-// this code defines a React component called `Product` that fetches and displays product data from an API. It uses the `useEffect` hook to call the `fetchProductData` function when the component mounts, which sends a request to the API using Axios. The response is stored in the `productData` state variable, and any errors are handled using a custom error handling function called `AxiosToastError`. The component currently only renders a simple "Product" message.

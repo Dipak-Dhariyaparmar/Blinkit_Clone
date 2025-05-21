@@ -15,4 +15,3 @@ categoryRouter.put("/update", auth, updateCategoryController);
 categoryRouter.delete("/delete", auth, deleteCategoryController);
 
 export default categoryRouter;
-// this routes is a category routes to define a category path
