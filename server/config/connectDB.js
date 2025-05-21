@@ -17,5 +17,3 @@ async function connectDB() {
 }
 
 export default connectDB;
-
-// this component is a connection file

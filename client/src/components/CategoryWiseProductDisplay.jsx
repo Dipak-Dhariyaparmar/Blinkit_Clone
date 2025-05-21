@@ -115,5 +115,3 @@ const CategoryWiseProductDisplay = ({ id, name }) => {
 };
 
 export default CategoryWiseProductDisplay;
-
-// this page is a category wise product display page

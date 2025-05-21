@@ -459,5 +459,3 @@ const EditProductAdmin = ({ close, data: propsData, fetchProductData }) => {
 };
 
 export default EditProductAdmin;
-
-// this code is used to edit product details in the admin panel
