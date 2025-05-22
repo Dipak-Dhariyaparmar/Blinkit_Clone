@@ -83,7 +83,6 @@ const Home = () => {
             })}
       </div>
 
-      {/***display category product */}
       {categoryData?.map((c, index) => {
         return (
           <CategoryWiseProductDisplay
@@ -98,3 +97,5 @@ const Home = () => {
 };
 
 export default Home;
+
+// this component is used to display the home page of the application

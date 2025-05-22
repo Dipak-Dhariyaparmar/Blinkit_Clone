@@ -184,3 +184,5 @@ const SubCategoryPage = () => {
 };
 
 export default SubCategoryPage;
+
+// this component is a  subcategory
