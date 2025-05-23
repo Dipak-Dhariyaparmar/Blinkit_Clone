@@ -152,5 +152,3 @@ const ResetPassword = () => {
 };
 
 export default ResetPassword;
-
-// this component is used to reset the password

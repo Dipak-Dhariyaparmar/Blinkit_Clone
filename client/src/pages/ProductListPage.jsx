@@ -132,5 +132,3 @@ const ProductListPage = () => {
 };
 
 export default ProductListPage;
-
-// this component is used to display the product list page
