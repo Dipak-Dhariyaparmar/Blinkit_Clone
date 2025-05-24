@@ -448,3 +448,6 @@ const UploadProduct = () => {
 };
 
 export default UploadProduct;
+
+// this is a simple product upload page in React. It allows users to upload product details including name, description, images, category, sub-category, unit, stock, price, discount, and additional fields. The component uses hooks for state management and handles image uploads with a loading state. It also provides functionality to remove uploaded images and categories. The form submission is handled with an API call, and success or error messages are displayed accordingly.
+// The component is styled using Tailwind CSS for a clean and modern look. The user can also view the uploaded images in a modal. The component is designed to be reusable and can be easily integrated into any React application.

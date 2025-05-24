@@ -133,3 +133,6 @@ const Profile = () => {
 };
 
 export default Profile;
+
+// this is a simple profile page component that allows users to view and edit their profile information. It includes a profile picture, name, email, and mobile number fields. The component uses Redux to manage user state and Axios for API requests. The component also includes a loading state and error handling using toast notifications.
+// The profile picture can be edited using a separate component, UserProfileAvatarEdit. The component is styled using Tailwind CSS for a clean and modern look. The form includes validation to ensure that all fields are filled before submission.

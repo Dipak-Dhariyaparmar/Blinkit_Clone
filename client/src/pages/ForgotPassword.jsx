@@ -96,3 +96,7 @@ const ForgotPassword = () => {
 };
 
 export default ForgotPassword;
+
+// this is a simple forgot password page that allows users to enter their email address and receive an OTP for password reset. The form is styled using Tailwind CSS, and the component uses React hooks for state management. The Axios library is used to make API requests, and the react-hot-toast library is used for displaying success and error messages. The component also includes validation to ensure that all fields are filled before submission.
+// The component is exported as the default export, making it available for use in other parts of the application. The navigate function from react-router-dom is used to redirect the user to the OTP verification page after a successful request.
+// The component is a functional component that uses React hooks for state management and Axios for making API requests. It includes a form with an input field for the user's email address and a button to submit the form. When the form is submitted, it sends a POST request to the server with the email address, and if successful, it redirects the user to the OTP verification page.

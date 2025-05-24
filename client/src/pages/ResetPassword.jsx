@@ -152,3 +152,6 @@ const ResetPassword = () => {
 };
 
 export default ResetPassword;
+
+// this is a simple reset password page
+// it has a form with three input fields

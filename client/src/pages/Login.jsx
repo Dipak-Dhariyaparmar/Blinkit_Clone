@@ -131,3 +131,7 @@ const Login = () => {
 };
 
 export default Login;
+
+// this is a login page component that allows users to log in to their account. It includes a form with fields for email and password, and a button to submit the form. The component uses React hooks for state management and Axios for making API requests. It also includes validation for the input fields and displays error messages using the react-hot-toast library. The component also handles navigation to other pages such as the registration page and forgot password page.
+// The component also uses Redux to manage user details in the global state. When the user successfully logs in, their details are fetched and stored in the Redux store, and they are redirected to the home page. The component also includes a toggle for showing and hiding the password input field.
+// The component is styled using Tailwind CSS for a modern and responsive design. The form includes a link to the forgot password page and a link to the registration page for users who do not have an account yet.

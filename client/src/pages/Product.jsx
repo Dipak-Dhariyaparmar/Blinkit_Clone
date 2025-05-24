@@ -36,3 +36,6 @@ const Product = () => {
 };
 
 export default Product;
+
+// this is a placeholder for the Product component
+// this component is not yet implemented

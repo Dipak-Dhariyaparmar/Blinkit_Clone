@@ -184,3 +184,6 @@ const SubCategoryPage = () => {
 };
 
 export default SubCategoryPage;
+
+// this is a React component that displays a page for managing subcategories.
+// It includes functionality to add, edit, delete, and view images of subcategories.

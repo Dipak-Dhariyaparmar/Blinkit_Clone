@@ -103,3 +103,5 @@ const SearchPage = () => {
 };
 
 export default SearchPage;
+
+// this is a search page that fetches data from an API based on the search query in the URL. It uses React hooks to manage state and side effects, and it displays the results in a grid layout with infinite scrolling. The page also handles loading states and displays a message when no data is found.
