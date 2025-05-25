@@ -230,6 +230,3 @@ const ProductDisplayPage = () => {
 };
 
 export default ProductDisplayPage;
-
-// this is a product display page that shows the details of a product including its name, image, price, discount, and description. It also includes features such as superfast delivery, best prices and offers, and a wide assortment of products. The page allows users to add the product to their cart and provides information about the product's unit and more details.
-// The component uses React hooks for state management and Axios for making API requests. It also includes a loading state to indicate when data is being fetched. The page is responsive and adjusts its layout based on the screen size, displaying additional information on larger screens.

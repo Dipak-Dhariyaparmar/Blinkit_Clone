@@ -145,6 +145,3 @@ const CategoryPage = () => {
 };
 
 export default CategoryPage;
-
-// This code defines a React component for managing categories in an application.
-// It includes functionality for fetching, adding, editing, and deleting categories.

@@ -19,6 +19,3 @@ const UserMenuMobile = () => {
 };
 
 export default UserMenuMobile;
-
-// this is a React component that displays a user menu in a mobile view.
-// It includes a close button to navigate back to the previous page and a UserMenu component that contains the actual menu items.
