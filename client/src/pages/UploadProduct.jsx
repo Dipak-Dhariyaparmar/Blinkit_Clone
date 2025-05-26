@@ -448,3 +448,5 @@ const UploadProduct = () => {
 };
 
 export default UploadProduct;
+
+// this code is a React component for uploading product details, including images, categories, and additional fields. It uses hooks for state management and interacts with an API to submit the product data. The component includes features like image upload, category selection, and dynamic field addition. It also handles loading states and displays uploaded images with options to view and delete them. The component is styled using Tailwind CSS classes for a clean and responsive design.

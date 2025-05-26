@@ -184,3 +184,5 @@ const SubCategoryPage = () => {
 };
 
 export default SubCategoryPage;
+
+// this code is a React component for managing subcategories in an e-commerce application. It allows users to view, add, edit, and delete subcategories, as well as view images associated with them. The component uses Axios for API calls and TanStack Table for displaying data in a table format. It also includes modals for adding and editing subcategories, as well as confirmation boxes for deletion actions. The component is designed to be responsive and user-friendly, providing a seamless experience for managing subcategories.

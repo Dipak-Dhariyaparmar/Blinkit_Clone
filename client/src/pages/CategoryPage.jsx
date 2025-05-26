@@ -145,3 +145,5 @@ const CategoryPage = () => {
 };
 
 export default CategoryPage;
+
+// this page is used to manage categories, allowing users to add, edit, and delete categories.
