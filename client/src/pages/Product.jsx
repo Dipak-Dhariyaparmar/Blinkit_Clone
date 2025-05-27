@@ -36,5 +36,3 @@ const Product = () => {
 };
 
 export default Product;
-
-// this code is a placeholder for the Product page component in a React application.

@@ -230,5 +230,3 @@ const ProductDisplayPage = () => {
 };
 
 export default ProductDisplayPage;
-
-// this code is a React component for displaying product details in an e-commerce application.

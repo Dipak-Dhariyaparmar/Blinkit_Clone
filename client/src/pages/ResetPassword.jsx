@@ -152,5 +152,3 @@ const ResetPassword = () => {
 };
 
 export default ResetPassword;
-
-// this code is a React component for resetting a user's password. It includes form validation, error handling, and navigation to the login page upon successful password reset. The component uses hooks for state management and side effects, and it integrates with an Axios instance for API requests. The UI is styled with Tailwind CSS classes for a clean and responsive design.

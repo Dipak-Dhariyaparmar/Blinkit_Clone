@@ -96,5 +96,3 @@ const ForgotPassword = () => {
 };
 
 export default ForgotPassword;
-
-// this code is a React component for a "Forgot Password" page. It allows users to enter their email address to receive a password reset link or OTP. The component uses Axios for API requests and react-hot-toast for notifications. It also includes form validation to ensure that the email field is not empty before submission. If the request is successful, it navigates the user to a verification page. The component is styled with Tailwind CSS classes for a clean and responsive design.

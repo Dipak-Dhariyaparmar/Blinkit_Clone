@@ -133,5 +133,3 @@ const Profile = () => {
 };
 
 export default Profile;
-
-// this code is a React component for a user profile page. It allows users to view and edit their profile information, including their name, email, and mobile number. The component also includes functionality to upload and edit the user's profile avatar. The profile data is fetched from a Redux store, and updates are made through an API call using Axios. The component handles loading states and displays appropriate messages based on the success or failure of the update operations.

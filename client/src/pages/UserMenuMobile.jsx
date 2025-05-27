@@ -19,5 +19,3 @@ const UserMenuMobile = () => {
 };
 
 export default UserMenuMobile;
-
-// This component is a mobile version of the UserMenu, providing a close button and displaying the UserMenu component within a container.
