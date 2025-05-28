@@ -131,3 +131,9 @@ const Login = () => {
 };
 
 export default Login;
+
+// this code is a React component for a login page. It includes a form for users to enter their email and password, with functionality to show or hide the password input. Upon submission, it sends the login data to an API endpoint and handles the response, displaying success or error messages as appropriate. If the login is successful, it stores the access token and refresh token in local storage, fetches user details, and redirects the user to the home page. The component also includes links for users to register or reset their password if they have forgotten it.
+// This code is a React component for a login page.
+// It allows users to enter their email and password to log in.
+// The component uses state to manage the input values and whether the password is visible.
+// It validates the input fields and sends a login request to the server using Axios.

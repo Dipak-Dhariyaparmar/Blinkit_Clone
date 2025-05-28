@@ -145,3 +145,5 @@ const CategoryPage = () => {
 };
 
 export default CategoryPage;
+
+// this is a category page component that allows users to view, add, edit, and delete categories. It uses various components such as UploadCategoryModel for adding new categories, EditCategory for editing existing ones, and CofirmBox for confirming deletions. The component fetches category data from an API and displays it in a grid format. It also handles loading states and error handling using Axios and toast notifications.

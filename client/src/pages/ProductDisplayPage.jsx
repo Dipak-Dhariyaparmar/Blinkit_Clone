@@ -230,3 +230,8 @@ const ProductDisplayPage = () => {
 };
 
 export default ProductDisplayPage;
+
+// this component is used to display the product details fetched from the server
+// it will be used in the product display page
+// it will display the product details in a grid format
+// it will also display the product images in a carousel format

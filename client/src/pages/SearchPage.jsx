@@ -103,3 +103,5 @@ const SearchPage = () => {
 };
 
 export default SearchPage;
+
+// this code is a React component for a search page that fetches and displays products based on a search query. It uses Axios for API calls, Infinite Scroll for loading more products, and handles loading states and no data scenarios.

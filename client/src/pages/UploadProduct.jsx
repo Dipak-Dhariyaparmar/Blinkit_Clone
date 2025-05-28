@@ -448,3 +448,6 @@ const UploadProduct = () => {
 };
 
 export default UploadProduct;
+
+/// this component is used to upload a new product to the server
+// it includes fields for product name, description, image upload, category, sub-category, unit, stock, price, discount, and additional fields
