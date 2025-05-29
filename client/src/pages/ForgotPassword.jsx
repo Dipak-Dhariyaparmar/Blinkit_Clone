@@ -96,8 +96,3 @@ const ForgotPassword = () => {
 };
 
 export default ForgotPassword;
-
-// This code is a React component for a "Forgot Password" page.
-// It allows users to enter their email address to receive a password reset link.
-// The component uses state to manage the email input and handles form submission to send a request to the server.
-// It also includes validation to ensure the email field is not empty before submission.

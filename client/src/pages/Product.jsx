@@ -36,7 +36,3 @@ const Product = () => {
 };
 
 export default Product;
-
-// this component is used to display the product data fetched from the server
-// it will be used in the product page
-// it will display the product data in a grid format
