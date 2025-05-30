@@ -20,4 +20,6 @@ const UserMenuMobile = () => {
 
 export default UserMenuMobile;
 
-// this is a user menu moooooooooooobile menu component 
+// this is a user menu moooooooooooobile menu component
+// that is used to display user menu options in a mobile view.
+// It includes a close button to navigate back to the previous page.

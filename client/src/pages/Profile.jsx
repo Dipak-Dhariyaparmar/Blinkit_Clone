@@ -133,3 +133,8 @@ const Profile = () => {
 };
 
 export default Profile;
+
+// this component is used to display and edit user profile information
+// it includes user avatar, name, email, and mobile number
+// it also includes a button to edit the user avatar
+// it uses redux to get the user details and update the user details

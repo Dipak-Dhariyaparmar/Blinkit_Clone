@@ -103,3 +103,7 @@ const SearchPage = () => {
 };
 
 export default SearchPage;
+
+// this component is used to search products based on the search text from the URL.
+// It fetches data from the server using Axios and displays the results in a grid format.
+// It also handles infinite scrolling to load more results as the user scrolls down.

@@ -145,3 +145,6 @@ const CategoryPage = () => {
 };
 
 export default CategoryPage;
+
+//  this components is used to manage categories in the admin panel.
+//  it allows to add, edit and delete categories.

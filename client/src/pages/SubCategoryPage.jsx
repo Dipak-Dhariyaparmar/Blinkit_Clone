@@ -184,3 +184,7 @@ const SubCategoryPage = () => {
 };
 
 export default SubCategoryPage;
+
+// this component is used to manage subcategories in the application.
+// It allows users to view, add, edit, and delete subcategories.
+// The component fetches subcategory data from the server and displays it in a table format.
