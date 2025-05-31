@@ -25,4 +25,3 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
-// This code defines a Dashboard component that serves as a layout for user-related pages in a React application.
