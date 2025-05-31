@@ -16,3 +16,5 @@ const Cancel = () => {
 };
 
 export default Cancel;
+
+// this component is a cansole event related
