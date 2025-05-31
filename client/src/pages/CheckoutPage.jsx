@@ -183,3 +183,5 @@ const CheckoutPage = () => {
 };
 
 export default CheckoutPage;
+
+// this component is a checkout page 
