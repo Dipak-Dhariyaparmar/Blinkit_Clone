@@ -17,3 +17,4 @@ const AdminPermision = ({ children }) => {
 };
 
 export default AdminPermision;
+// this component is a adminpermisstion related
