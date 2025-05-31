@@ -230,7 +230,3 @@ const ProductDisplayPage = () => {
 };
 
 export default ProductDisplayPage;
-
-// this component displays the details of a product, including its images, description, price, and additional information. It also includes features like image scrolling and displaying product benefits. The component fetches product data from an API and handles loading states and errors gracefully.
-// The product images can be scrolled horizontally, and clicking on an image updates the main display image. The component also highlights the product's delivery time and offers, enhancing the user experience by providing essential product information in a structured layout.
-// The component is designed to be responsive, adapting its layout for both desktop and mobile views. It uses utility classes for styling and ensures that the product information is presented clearly and attractively.
