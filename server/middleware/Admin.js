@@ -24,3 +24,4 @@ export const admin = async(request,response,next)=>{
         })
     }
 }
+// this is a admin to auth middle ware
