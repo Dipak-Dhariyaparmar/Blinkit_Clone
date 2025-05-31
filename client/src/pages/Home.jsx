@@ -97,3 +97,5 @@ const Home = () => {
 };
 
 export default Home;
+
+// this is a home component
