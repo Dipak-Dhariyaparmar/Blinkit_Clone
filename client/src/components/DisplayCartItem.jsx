@@ -150,3 +150,5 @@ const DisplayCartItem = ({ close }) => {
 };
 
 export default DisplayCartItem;
+
+// this components is a displaycartitem related
