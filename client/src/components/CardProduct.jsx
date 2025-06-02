@@ -64,3 +64,5 @@ const CardProduct = ({ data }) => {
 };
 
 export default CardProduct;
+
+// this component is a cardproduct
