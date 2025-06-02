@@ -115,3 +115,5 @@ const CategoryWiseProductDisplay = ({ id, name }) => {
 };
 
 export default CategoryWiseProductDisplay;
+
+// this component is a categorywiseproduct
