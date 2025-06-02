@@ -37,3 +37,5 @@ const CartMobileLink = () => {
 };
 
 export default CartMobileLink;
+
+// this component is a cartmobile
