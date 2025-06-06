@@ -76,3 +76,5 @@ const UserProfileAvatarEdit = ({ close }) => {
 };
 
 export default UserProfileAvatarEdit;
+
+// this component is related to user profile avatar
