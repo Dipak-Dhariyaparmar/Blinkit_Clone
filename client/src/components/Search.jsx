@@ -96,3 +96,5 @@ const Search = () => {
 };
 
 export default Search;
+
+// this is a search component 
