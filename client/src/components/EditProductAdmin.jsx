@@ -459,3 +459,5 @@ const EditProductAdmin = ({ close, data: propsData, fetchProductData }) => {
 };
 
 export default EditProductAdmin;
+
+// this component is a edit product related
