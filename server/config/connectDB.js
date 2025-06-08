@@ -17,3 +17,4 @@ async function connectDB() {
 }
 
 export default connectDB;
+// this component is related to connect a database
