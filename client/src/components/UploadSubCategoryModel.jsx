@@ -207,4 +207,4 @@ const UploadSubCategoryModel = ({ close, fetchData }) => {
 
 export default UploadSubCategoryModel;
 
-// this component is related to upload subcategory model
+// this component is a related to uploadsubcategory model
