@@ -145,4 +145,4 @@ const Header = () => {
 };
 
 export default Header;
-// this is a header component
+// this component is a related to header
