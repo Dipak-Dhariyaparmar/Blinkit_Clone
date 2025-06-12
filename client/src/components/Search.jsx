@@ -96,5 +96,4 @@ const Search = () => {
 };
 
 export default Search;
-
-// this is a search component 
+// this component is a related to search
