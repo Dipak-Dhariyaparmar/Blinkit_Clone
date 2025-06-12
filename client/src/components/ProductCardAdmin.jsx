@@ -103,4 +103,4 @@ const ProductCardAdmin = ({ data, fetchProductData }) => {
 };
 
 export default ProductCardAdmin;
-// this component is a product card related
+// this component is a related to productcard admin
