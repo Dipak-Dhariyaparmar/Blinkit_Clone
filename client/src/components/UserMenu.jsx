@@ -132,4 +132,4 @@ const UserMenu = ({ close }) => {
 
 export default UserMenu;
 
-// this component is a related to user menu
+// this component is a related to usermenu
