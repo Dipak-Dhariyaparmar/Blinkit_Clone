@@ -156,5 +156,3 @@ const SummaryApi = {
 };
 
 export default SummaryApi;
-
-// this file contains the API endpoints for the application.
