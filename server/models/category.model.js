@@ -19,3 +19,4 @@ const categorySchema = new mongoose.Schema(
 const CategoryModel = mongoose.model("category", categorySchema);
 
 export default CategoryModel;
+// This model is a related to Category model
