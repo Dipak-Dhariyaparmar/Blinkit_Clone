@@ -519,4 +519,3 @@ export async function userDetails(request, response) {
     });
   }
 }
-// this component is a user related
