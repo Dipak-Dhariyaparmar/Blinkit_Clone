@@ -144,9 +144,5 @@ export const deleteCartItemQtyController = async (request, response) => {
       error: true,
       success: false,
     });
-
-    // this component is a cart related
   }
 };
-
-// this controller is a cart controller logic
