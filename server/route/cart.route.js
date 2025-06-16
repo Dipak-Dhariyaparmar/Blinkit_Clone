@@ -15,3 +15,4 @@ cartRouter.put("/update-qty", auth, updateCartItemQtyController);
 cartRouter.delete("/delete-cart-item", auth, deleteCartItemQtyController);
 
 export default cartRouter;
+// This Routes is a related to cart
