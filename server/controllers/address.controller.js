@@ -121,4 +121,3 @@ export const deleteAddresscontroller = async (request, response) => {
     });
   }
 };
-// this component is a address related
