@@ -111,4 +111,3 @@ export const deleteSubCategoryController = async (request, response) => {
     });
   }
 };
-// this component is a subcategory related
