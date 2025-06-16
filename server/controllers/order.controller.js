@@ -214,4 +214,3 @@ export async function getOrderDetailsController(request, response) {
     });
   }
 }
-// this component is a order related
