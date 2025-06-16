@@ -324,4 +324,3 @@ export const searchProduct = async (request, response) => {
     });
   }
 };
-// this component is a product related
