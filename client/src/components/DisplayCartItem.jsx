@@ -40,7 +40,6 @@ const DisplayCartItem = ({ close }) => {
         </div>
 
         <div className="min-h-[75vh] lg:min-h-[80vh] h-full max-h-[calc(100vh-150px)] bg-blue-50 p-2 flex flex-col gap-4">
-          {/***display items */}
           {cartItem[0] ? (
             <>
               <div className="flex items-center justify-between px-4 py-2 bg-blue-100 text-blue-500 rounded-full">
@@ -150,4 +149,3 @@ const DisplayCartItem = ({ close }) => {
 };
 
 export default DisplayCartItem;
-// this component is a related to displaycartitem
