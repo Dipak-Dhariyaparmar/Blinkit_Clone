@@ -55,4 +55,3 @@ const DisplayTable = ({ data, column }) => {
 };
 
 export default DisplayTable;
-// this component is a related to displaytable
