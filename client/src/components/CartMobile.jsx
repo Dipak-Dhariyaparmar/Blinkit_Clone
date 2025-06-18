@@ -9,7 +9,6 @@ import { useSelector } from "react-redux";
 const CartMobileLink = () => {
   const { totalPrice, totalQty } = useGlobalContext();
   const cartItem = useSelector((state) => state.cartItem.cart);
-  // this page sis a cart page
   return (
     <>
       {cartItem[0] && (
@@ -37,4 +36,3 @@ const CartMobileLink = () => {
 };
 
 export default CartMobileLink;
-// this component is a related to cartmobile
