@@ -46,16 +46,14 @@ const Search = () => {
       </div>
       <div className="w-full h-full">
         {!isSearchPage ? (
-          //not in search page
           <div
             onClick={redirectToSearchPage}
             className="w-full h-full flex items-center"
           >
             <TypeAnimation
               sequence={[
-                // Same substring at the start will only be typed out once, initially
                 'Search "milk"',
-                1000, // wait 1s before replacing "Mice" with "Hamsters"
+                1000, 
                 'Search "bread"',
                 1000,
                 'Search "sugar"',
@@ -78,7 +76,6 @@ const Search = () => {
             />
           </div>
         ) : (
-          //when i was search page
           <div className="w-full h-full">
             <input
               type="text"
@@ -96,4 +93,3 @@ const Search = () => {
 };
 
 export default Search;
-// this component is a related to search
