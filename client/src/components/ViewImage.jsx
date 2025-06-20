@@ -19,3 +19,4 @@ const ViewImage = ({ url, close }) => {
 };
 
 export default ViewImage;
+// This Component is a related to viweimage logic 
