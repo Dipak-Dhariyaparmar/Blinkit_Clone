@@ -206,3 +206,4 @@ const UploadSubCategoryModel = ({ close, fetchData }) => {
 };
 
 export default UploadSubCategoryModel;
+// This Component is a related to UploadSubcategory logic 
