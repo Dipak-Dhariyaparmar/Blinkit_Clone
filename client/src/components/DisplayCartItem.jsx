@@ -149,3 +149,4 @@ const DisplayCartItem = ({ close }) => {
 };
 
 export default DisplayCartItem;
+// This Component is a related to displaycartitem logic 
