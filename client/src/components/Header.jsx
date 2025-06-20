@@ -145,3 +145,4 @@ const Header = () => {
 };
 
 export default Header;
+// This Component is a related to Header logic 
