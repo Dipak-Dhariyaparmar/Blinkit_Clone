@@ -32,3 +32,4 @@ const CofirmBox = ({ cancel, confirm, close }) => {
 };
 
 export default CofirmBox;
+// This Component is a related to ConfirmBox logic 
