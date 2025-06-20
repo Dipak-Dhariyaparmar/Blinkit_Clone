@@ -115,3 +115,4 @@ const AddToCartButton = ({ data }) => {
 };
 
 export default AddToCartButton;
+// This Component is a related to Addtocartbtton logic 
