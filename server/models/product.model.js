@@ -55,7 +55,6 @@ const productSchema = new mongoose.Schema(
   }
 );
 
-//create a text index
 productSchema.index(
   {
     name: "text",
@@ -70,4 +69,3 @@ productSchema.index(
 const ProductModel = mongoose.model("product", productSchema);
 
 export default ProductModel;
-// This model is a related to Product 
