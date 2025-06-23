@@ -6,7 +6,7 @@ import mongoose from "mongoose";
 
 export async function CashOnDeliveryOrderController(request, response) {
   try {
-    const userId = request.userId; // auth middleware
+    const userId = request.userId;
     const { list_items, totalAmt, addressId, subTotalAmt } = request.body;
 
     const payload = list_items.map((el) => {
@@ -149,14 +149,12 @@ const getOrderProductItems = async ({
   return productList;
 };
 
-//http://localhost:8080/api/order/webhook
 export async function webhookStripe(request, response) {
   const event = request.body;
   const endPointSecret = process.env.STRIPE_ENPOINT_WEBHOOK_SECRET_KEY;
 
   console.log("event", event);
 
-  // Handle the event
   switch (event.type) {
     case "checkout.session.completed":
       const session = event.data.object;
@@ -188,7 +186,6 @@ export async function webhookStripe(request, response) {
       console.log(`Unhandled event type ${event.type}`);
   }
 
-  // Return a response to acknowledge receipt of the event
   response.json({ received: true });
 }
 
@@ -214,3 +211,5 @@ export async function getOrderDetailsController(request, response) {
     });
   }
 }
+
+// This is a order controller related logic
