@@ -15,4 +15,3 @@ orderRouter.post("/webhook", webhookStripe);
 orderRouter.get("/order-list", auth, getOrderDetailsController);
 
 export default orderRouter;
-// This Routes is a related to order
