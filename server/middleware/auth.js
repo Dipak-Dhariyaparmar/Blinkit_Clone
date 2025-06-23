@@ -34,3 +34,4 @@ const auth = async(request,response,next)=>{
 }
 
 export default auth
+// This is a auth middle related logic
