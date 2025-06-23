@@ -519,3 +519,4 @@ export async function userDetails(request, response) {
     });
   }
 }
+// This is a user controller related logic
