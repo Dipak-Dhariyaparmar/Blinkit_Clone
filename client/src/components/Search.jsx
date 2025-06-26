@@ -93,4 +93,3 @@ const Search = () => {
 };
 
 export default Search;
-// This Component is a related to Search logic 
