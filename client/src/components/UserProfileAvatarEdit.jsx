@@ -76,4 +76,3 @@ const UserProfileAvatarEdit = ({ close }) => {
 };
 
 export default UserProfileAvatarEdit;
-// This Component is a related to Userprofileavataredit logic 
