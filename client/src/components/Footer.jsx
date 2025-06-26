@@ -26,4 +26,3 @@ const Footer = () => {
 };
 
 export default Footer;
-// This Component is a related to footer logic 
