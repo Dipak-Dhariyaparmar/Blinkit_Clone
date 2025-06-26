@@ -36,4 +36,3 @@ const CartMobileLink = () => {
 };
 
 export default CartMobileLink;
-// This Component is a related to Cartmobile link logic 
