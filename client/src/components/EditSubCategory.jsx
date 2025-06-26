@@ -206,4 +206,3 @@ const EditSubCategory = ({ close, data, fetchData }) => {
 };
 
 export default EditSubCategory;
-// This Component is a related to Editsubcategory logic 
