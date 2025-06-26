@@ -29,4 +29,3 @@ const AddFieldComponent = ({ close, value, onChange, submit }) => {
 };
 
 export default AddFieldComponent;
-// This Component is a related to Addfield logic 
