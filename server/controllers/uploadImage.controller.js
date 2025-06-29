@@ -22,4 +22,3 @@ const uploadImageController = async (request, response) => {
 };
 
 export default uploadImageController;
-// This is a ploadimage controller related logic
