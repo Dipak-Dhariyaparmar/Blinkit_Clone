@@ -324,4 +324,3 @@ export const searchProduct = async (request, response) => {
     });
   }
 };
-// This is a product controller related logic
