@@ -24,4 +24,3 @@ export const admin = async(request,response,next)=>{
         })
     }
 }
-// This is a admin middleware related logic
