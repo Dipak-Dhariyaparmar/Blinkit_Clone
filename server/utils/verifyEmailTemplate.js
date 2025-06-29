@@ -9,4 +9,3 @@ const verifyEmailTemplate = ({ name, url }) => {
 };
 
 export default verifyEmailTemplate;
-// This is a verify email template related component
