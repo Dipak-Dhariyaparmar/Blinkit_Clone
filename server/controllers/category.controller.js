@@ -131,4 +131,3 @@ export const deleteCategoryController = async (request, response) => {
     });
   }
 };
-// This is a category controller related logic
