@@ -33,3 +33,4 @@ productRouter.delete("/delete-product", auth, admin, deleteProductDetails);
 productRouter.post("/search-product", searchProduct);
 
 export default productRouter;
+// This route is related product 
