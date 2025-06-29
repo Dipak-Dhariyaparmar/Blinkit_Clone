@@ -211,5 +211,3 @@ export async function getOrderDetailsController(request, response) {
     });
   }
 }
-
-// This is a order controller related logic
