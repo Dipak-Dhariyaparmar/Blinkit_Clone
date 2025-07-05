@@ -16,3 +16,4 @@ const forgotPasswordTemplate = ({ name, otp }) => {
 };
 
 export default forgotPasswordTemplate;
+// This utils is related to forgot passwords
