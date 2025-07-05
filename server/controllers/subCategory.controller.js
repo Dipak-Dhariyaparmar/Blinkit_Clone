@@ -111,3 +111,4 @@ export const deleteSubCategoryController = async (request, response) => {
     });
   }
 };
+// This controller is a related to subcategory
