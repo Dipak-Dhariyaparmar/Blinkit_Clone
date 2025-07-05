@@ -15,4 +15,3 @@ categoryRouter.put("/update", auth, updateCategoryController);
 categoryRouter.delete("/delete", auth, deleteCategoryController);
 
 export default categoryRouter;
-// This route is related category 
