@@ -5,4 +5,3 @@ const Divider = () => {
 };
 
 export default Divider;
-// This component is a related to divider
