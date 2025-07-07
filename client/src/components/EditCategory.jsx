@@ -145,4 +145,3 @@ const EditCategory = ({ close, fetchData, data: CategoryData }) => {
 };
 
 export default EditCategory;
-// This component is a related to edit category
