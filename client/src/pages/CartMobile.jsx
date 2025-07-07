@@ -7,4 +7,3 @@ const CartMobile = () => {
 
 export default CartMobile;
 
-// this page is a cart mobile component
