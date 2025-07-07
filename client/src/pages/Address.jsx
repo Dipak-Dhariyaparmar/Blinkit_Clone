@@ -101,5 +101,3 @@ const Address = () => {
 };
 
 export default Address;
-
-// this component is a Address related
