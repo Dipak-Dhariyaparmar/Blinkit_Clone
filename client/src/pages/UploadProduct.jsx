@@ -448,8 +448,4 @@ const UploadProduct = () => {
 };
 
 export default UploadProduct;
-
-// this component is used to upload new products to the application.
-// it allows the user to upload product images, select categories and subcategories,
-// and add additional fields for product details. The data is then submitted to the server.
-// It also includes functionality to view uploaded images and remove them if necessary.
+// This component is a related to upload product
