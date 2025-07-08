@@ -96,3 +96,4 @@ const ForgotPassword = () => {
 };
 
 export default ForgotPassword;
+// This compoennt is a related to forgot password
