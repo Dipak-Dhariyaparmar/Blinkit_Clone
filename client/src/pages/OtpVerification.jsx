@@ -119,3 +119,4 @@ const OtpVerification = () => {
 };
 
 export default OtpVerification;
+// This compoennt is a related to otp verification
