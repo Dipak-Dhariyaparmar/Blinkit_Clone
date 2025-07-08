@@ -31,3 +31,4 @@ const MyOrders = () => {
 };
 
 export default MyOrders;
+// This compoennt is a related to my orders
