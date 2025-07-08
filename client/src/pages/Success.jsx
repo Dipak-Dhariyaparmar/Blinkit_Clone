@@ -22,3 +22,4 @@ const Success = () => {
 };
 
 export default Success;
+// This component is a related to success
