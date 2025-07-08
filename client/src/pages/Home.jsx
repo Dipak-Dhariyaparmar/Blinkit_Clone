@@ -97,3 +97,4 @@ const Home = () => {
 };
 
 export default Home;
+// This compoennt is a related to home 
