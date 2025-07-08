@@ -153,3 +153,4 @@ const ResetPassword = () => {
 
 export default ResetPassword;
 
+// This compoennt is a related to reset password
