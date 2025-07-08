@@ -36,5 +36,4 @@ const Product = () => {
 };
 
 export default Product;
-
-// this code is a basic structure for the Product page in a React application. It fetches product data from an API and displays it. You can expand this component by adding features like pagination, filtering, and sorting based on your requirements.
+// This compoennt is a related to product
