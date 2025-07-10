@@ -15,3 +15,5 @@ subCategoryRouter.put("/update", auth, updateSubCategoryController);
 subCategoryRouter.delete("/delete", auth, deleteSubCategoryController);
 
 export default subCategoryRouter;
+
+// This is a sub category routes
