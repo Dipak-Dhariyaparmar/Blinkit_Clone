@@ -519,4 +519,3 @@ export async function userDetails(request, response) {
     });
   }
 }
-// This controller is a related to user
