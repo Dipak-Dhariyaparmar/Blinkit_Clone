@@ -23,3 +23,5 @@ const cartProductSchema = new mongoose.Schema(
 const CartProductModel = mongoose.model("cartProduct", cartProductSchema);
 
 export default CartProductModel;
+
+// This is a cart product  model
