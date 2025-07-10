@@ -34,4 +34,3 @@ const auth = async(request,response,next)=>{
 }
 
 export default auth
-// This middleware is a related to auth
