@@ -30,3 +30,5 @@ userRouter.post("/refresh-token", refreshToken);
 userRouter.get("/user-details", auth, userDetails);
 
 export default userRouter;
+
+// This is a user routes
