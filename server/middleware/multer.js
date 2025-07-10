@@ -5,4 +5,3 @@ const storage = multer.memoryStorage()
 const upload = multer({ storage : storage })
 
 export default upload
-// This component is a related to multer
