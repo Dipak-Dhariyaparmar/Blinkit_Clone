@@ -19,4 +19,3 @@ const genertedRefreshToken = async (userId) => {
 };
 
 export default genertedRefreshToken;
-// This utils is related to genereted refresh token
