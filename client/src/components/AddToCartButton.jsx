@@ -115,3 +115,4 @@ const AddToCartButton = ({ data }) => {
 };
 
 export default AddToCartButton;
+// This component is a related to add to cart button
