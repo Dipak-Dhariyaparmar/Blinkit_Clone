@@ -206,3 +206,4 @@ const EditSubCategory = ({ close, data, fetchData }) => {
 };
 
 export default EditSubCategory;
+// This component is a related to Edit sub category
