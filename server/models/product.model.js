@@ -70,4 +70,4 @@ const ProductModel = mongoose.model("product", productSchema);
 
 export default ProductModel;
 
-// This is a product model
+// This is a product related model
