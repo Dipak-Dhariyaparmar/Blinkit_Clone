@@ -22,3 +22,4 @@ const uploadImageController = async (request, response) => {
 };
 
 export default uploadImageController;
+// This is a uploadimage related controller
