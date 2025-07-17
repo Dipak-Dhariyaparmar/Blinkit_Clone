@@ -16,4 +16,4 @@ categoryRouter.delete("/delete", auth, deleteCategoryController);
 
 export default categoryRouter;
 
-// This is a category routes
+// This is a category related routes
