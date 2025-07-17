@@ -324,3 +324,4 @@ export const searchProduct = async (request, response) => {
     });
   }
 };
+// This is a product related controller
