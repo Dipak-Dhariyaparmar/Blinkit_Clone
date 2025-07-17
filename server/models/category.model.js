@@ -20,4 +20,4 @@ const CategoryModel = mongoose.model("category", categorySchema);
 
 export default CategoryModel;
 
-// This is a category model
+// This is a category related model
