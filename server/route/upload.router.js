@@ -14,4 +14,4 @@ uploadRouter.post(
 
 export default uploadRouter;
 
-// This is a upload routes
+// This is a upload related routes
