@@ -34,4 +34,4 @@ productRouter.post("/search-product", searchProduct);
 
 export default productRouter;
 
-// This is a product routes
+// This is a product related routes
