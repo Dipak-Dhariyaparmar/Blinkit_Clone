@@ -41,4 +41,4 @@ const addressSchema = new mongoose.Schema(
 const AddressModel = mongoose.model("address", addressSchema);
 
 export default AddressModel;
-// This is a address model
+// This is a address related model
