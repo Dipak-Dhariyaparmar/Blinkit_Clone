@@ -31,4 +31,4 @@ userRouter.get("/user-details", auth, userDetails);
 
 export default userRouter;
 
-// This is a user routes
+// This is a user related routes
