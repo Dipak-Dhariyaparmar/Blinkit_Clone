@@ -131,3 +131,4 @@ export const deleteCategoryController = async (request, response) => {
     });
   }
 };
+// This is a category related controller
