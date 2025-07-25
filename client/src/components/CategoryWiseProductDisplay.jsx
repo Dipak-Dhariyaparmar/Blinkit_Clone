@@ -115,4 +115,3 @@ const CategoryWiseProductDisplay = ({ id, name }) => {
 };
 
 export default CategoryWiseProductDisplay;
-// This component is a related to category wise product displays
