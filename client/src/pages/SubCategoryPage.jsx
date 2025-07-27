@@ -184,4 +184,3 @@ const SubCategoryPage = () => {
 };
 
 export default SubCategoryPage;
-// This compoennt is a related to sub category 
