@@ -133,4 +133,3 @@ const Profile = () => {
 };
 
 export default Profile;
-// This compoennt is a related to profile
