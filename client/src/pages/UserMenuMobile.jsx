@@ -19,4 +19,3 @@ const UserMenuMobile = () => {
 };
 
 export default UserMenuMobile;
-// This component is a related to user menu mobile
