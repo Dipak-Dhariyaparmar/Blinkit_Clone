@@ -6,4 +6,3 @@ const CartMobile = () => {
 };
 
 export default CartMobile;
-// This compoennt is a related to cart mobile
