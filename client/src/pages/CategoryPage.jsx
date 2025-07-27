@@ -145,4 +145,3 @@ const CategoryPage = () => {
 };
 
 export default CategoryPage;
-// This compoennt is a related to category page
