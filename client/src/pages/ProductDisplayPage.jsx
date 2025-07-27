@@ -230,4 +230,3 @@ const ProductDisplayPage = () => {
 };
 
 export default ProductDisplayPage;
-// This compoennt is a related to product display page
