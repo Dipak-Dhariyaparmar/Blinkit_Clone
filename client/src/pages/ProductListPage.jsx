@@ -132,4 +132,3 @@ const ProductListPage = () => {
 };
 
 export default ProductListPage;
-// This compoennt is a related to product list page
