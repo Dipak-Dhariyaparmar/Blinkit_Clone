@@ -36,4 +36,3 @@ const Product = () => {
 };
 
 export default Product;
-// This compoennt is a related to product
