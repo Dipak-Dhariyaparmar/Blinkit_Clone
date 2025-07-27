@@ -128,4 +128,3 @@ const ProductAdmin = () => {
 }
 
 export default ProductAdmin
-// This compoennt is a related to product admin
