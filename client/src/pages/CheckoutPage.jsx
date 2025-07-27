@@ -183,4 +183,3 @@ const CheckoutPage = () => {
 };
 
 export default CheckoutPage;
-// This compoennt is a related to checkout page
