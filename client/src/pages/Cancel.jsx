@@ -16,4 +16,3 @@ const Cancel = () => {
 };
 
 export default Cancel;
-// This compoennt is a related to cancel
