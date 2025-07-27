@@ -103,4 +103,3 @@ const SearchPage = () => {
 };
 
 export default SearchPage;
-// This compoennt is a related to search page
