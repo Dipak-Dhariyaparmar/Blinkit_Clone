@@ -5,4 +5,3 @@ const storage = multer.memoryStorage()
 const upload = multer({ storage : storage })
 
 export default upload
-// This is a multer related middleware
