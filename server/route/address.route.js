@@ -15,5 +15,3 @@ addressRouter.put("/update", auth, updateAddressController);
 addressRouter.delete("/disable", auth, deleteAddresscontroller);
 
 export default addressRouter;
-
-// This is a address related routes
