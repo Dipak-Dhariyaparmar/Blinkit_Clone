@@ -27,3 +27,4 @@ const Loading = () => {
 };
 
 export default Loading;
+// This component is a related to loading
