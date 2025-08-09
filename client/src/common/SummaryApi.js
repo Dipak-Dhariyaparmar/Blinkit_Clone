@@ -156,3 +156,4 @@ const SummaryApi = {
 };
 
 export default SummaryApi;
+// this component is a related to SummaryApi
