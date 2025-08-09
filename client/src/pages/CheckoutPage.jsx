@@ -183,3 +183,4 @@ const CheckoutPage = () => {
 };
 
 export default CheckoutPage;
+// this page is related to CheckoutPage
