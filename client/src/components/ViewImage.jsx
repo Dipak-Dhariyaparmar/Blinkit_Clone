@@ -19,3 +19,4 @@ const ViewImage = ({ url, close }) => {
 };
 
 export default ViewImage;
+// this component is a related to ViewImage
