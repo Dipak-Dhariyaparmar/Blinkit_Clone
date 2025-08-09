@@ -119,3 +119,4 @@ const AddAddress = ({ close }) => {
 };
 
 export default AddAddress;
+// this component is a related to AddAddress
