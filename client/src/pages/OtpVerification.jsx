@@ -119,3 +119,4 @@ const OtpVerification = () => {
 };
 
 export default OtpVerification;
+// This page is related to OTP verification 
