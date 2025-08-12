@@ -145,4 +145,3 @@ const UploadCategoryModel = ({ close, fetchData }) => {
 };
 
 export default UploadCategoryModel
-// this component is a related to UploadCategoryModel
