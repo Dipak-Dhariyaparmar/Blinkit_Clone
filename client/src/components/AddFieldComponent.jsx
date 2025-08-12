@@ -29,4 +29,3 @@ const AddFieldComponent = ({ close, value, onChange, submit }) => {
 };
 
 export default AddFieldComponent;
-// this component is a related to AddFieldComponent
