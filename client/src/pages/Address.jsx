@@ -101,4 +101,3 @@ const Address = () => {
 };
 
 export default Address;
-// this page is related to Address
