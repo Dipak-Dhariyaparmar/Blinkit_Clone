@@ -6,3 +6,5 @@ const CartMobile = () => {
 };
 
 export default CartMobile;
+
+// this page is related to Cancel
