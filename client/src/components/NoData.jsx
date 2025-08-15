@@ -11,3 +11,4 @@ const NoData = () => {
 };
 
 export default NoData;
+// This component is related to NoData
