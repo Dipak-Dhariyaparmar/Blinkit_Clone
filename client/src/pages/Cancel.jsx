@@ -16,4 +16,3 @@ const Cancel = () => {
 };
 
 export default Cancel;
-// this page is related to Cancel
