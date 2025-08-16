@@ -448,3 +448,4 @@ const UploadProduct = () => {
 };
 
 export default UploadProduct;
+// This page is related to UserProduct
