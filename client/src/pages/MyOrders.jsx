@@ -31,4 +31,3 @@ const MyOrders = () => {
 };
 
 export default MyOrders;
-// This page is related to MyOrder
