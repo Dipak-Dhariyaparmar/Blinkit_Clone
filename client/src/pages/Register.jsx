@@ -160,3 +160,4 @@ const Register = () => {
 };
 
 export default Register;
+// This page is related to Register
