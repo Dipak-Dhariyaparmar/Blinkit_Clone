@@ -97,3 +97,4 @@ const Home = () => {
 };
 
 export default Home;
+// This page is related to home
