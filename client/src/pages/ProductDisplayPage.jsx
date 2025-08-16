@@ -230,3 +230,4 @@ const ProductDisplayPage = () => {
 };
 
 export default ProductDisplayPage;
+// This page is related to ProductDisplayPage
