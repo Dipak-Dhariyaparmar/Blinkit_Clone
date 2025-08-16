@@ -145,3 +145,4 @@ const CategoryPage = () => {
 };
 
 export default CategoryPage;
+// this page is related to CategoryPage
