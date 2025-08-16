@@ -184,3 +184,4 @@ const SubCategoryPage = () => {
 };
 
 export default SubCategoryPage;
+// This page is related to SubCategoryPage
