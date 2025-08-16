@@ -36,4 +36,3 @@ const Product = () => {
 };
 
 export default Product;
-// This page is related to Product
