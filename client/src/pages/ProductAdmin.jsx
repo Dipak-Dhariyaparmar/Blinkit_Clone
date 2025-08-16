@@ -128,5 +128,3 @@ const ProductAdmin = () => {
 }
 
 export default ProductAdmin
-
-// This page is related to ProductAdmin
