@@ -19,3 +19,4 @@ const UserMenuMobile = () => {
 };
 
 export default UserMenuMobile;
+// This page is related to User MenuMobile
