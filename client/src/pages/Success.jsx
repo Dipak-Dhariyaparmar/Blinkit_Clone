@@ -22,3 +22,4 @@ const Success = () => {
 };
 
 export default Success;
+// This page is related to Success
