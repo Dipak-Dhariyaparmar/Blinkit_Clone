@@ -131,4 +131,3 @@ const Login = () => {
 };
 
 export default Login;
-// This page is related to login
