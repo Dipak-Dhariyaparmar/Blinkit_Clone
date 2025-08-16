@@ -152,3 +152,4 @@ const ResetPassword = () => {
 };
 
 export default ResetPassword;
+// This page is related to ResetPassword
