@@ -103,3 +103,4 @@ const SearchPage = () => {
 };
 
 export default SearchPage;
+// This page is related to SearchPage
