@@ -15,3 +15,4 @@ subCategoryRouter.put("/update", auth, updateSubCategoryController);
 subCategoryRouter.delete("/delete", auth, deleteSubCategoryController);
 
 export default subCategoryRouter;
+// This route is related to subcategory
