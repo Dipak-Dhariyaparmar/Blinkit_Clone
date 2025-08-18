@@ -21,4 +21,4 @@ const uploadImageClodinary = async (image) => {
 };
 
 export default uploadImageClodinary;
-// This is a upload image cloudinary related utils
+// This utils is a related to upload image to cloudinary
