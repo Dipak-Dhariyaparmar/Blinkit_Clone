@@ -11,4 +11,4 @@ const generatedAccessToken = async (userId) => {
 };
 
 export default generatedAccessToken;
-// This is a generated access token related utils
+// This utils is a related to generated access token
