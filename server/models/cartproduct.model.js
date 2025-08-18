@@ -23,3 +23,4 @@ const cartProductSchema = new mongoose.Schema(
 const CartProductModel = mongoose.model("cartProduct", cartProductSchema);
 
 export default CartProductModel;
+// This model is related to the CartProduct
