@@ -146,3 +146,4 @@ export const deleteCartItemQtyController = async (request, response) => {
     });
   }
 };
+// This controller is related to the cart
