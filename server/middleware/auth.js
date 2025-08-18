@@ -34,3 +34,4 @@ const auth = async(request,response,next)=>{
 }
 
 export default auth
+// This controller is related to the auth
