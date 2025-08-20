@@ -129,4 +129,3 @@ const EditAddressDetails = ({ close, data }) => {
 };
 
 export default EditAddressDetails;
-// This component is related to EditAddressDetails
