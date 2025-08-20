@@ -115,4 +115,3 @@ const CategoryWiseProductDisplay = ({ id, name }) => {
 };
 
 export default CategoryWiseProductDisplay;
-// This file is related to CategoryWiseProductDisplay
