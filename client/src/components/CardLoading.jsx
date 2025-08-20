@@ -17,4 +17,3 @@ const CardLoading = () => {
 };
 
 export default CardLoading;
-// This component is related to CardLoading
