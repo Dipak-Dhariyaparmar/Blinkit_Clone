@@ -145,3 +145,5 @@ const Header = () => {
 };
 
 export default Header;
+
+// This component is related to Header
