@@ -26,4 +26,3 @@ const Footer = () => {
 };
 
 export default Footer;
-// This component is related to Footer
