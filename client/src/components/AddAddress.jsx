@@ -1,4 +1,4 @@
-// This component is related to add addre
+// This component is related to add address
 import React from "react";
 import { useForm } from "react-hook-form";
 import Axios from "../utils/Axios";
