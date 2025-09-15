@@ -1,3 +1,6 @@
+
+// This controller is related to the addres
+
 import AddressModel from "../models/address.model.js";
 import UserModel from "../models/user.model.js";
 
