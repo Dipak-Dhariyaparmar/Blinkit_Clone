@@ -1,4 +1,4 @@
-// this component is related to connectDBs
+// this component is related to connectDB
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 dotenv.config();
