@@ -1,4 +1,4 @@
-// This component is to address related 
+// This component is to address relateds 
 
 import React, { useState } from "react";
 import { useSelector } from "react-redux";
