@@ -1,3 +1,6 @@
+// This model is related to the address
+
+
 import mongoose from "mongoose";
 
 const addressSchema = new mongoose.Schema(
