@@ -1,4 +1,4 @@
-// This model is related to the addres
+// This model is related to the address
 
 
 import mongoose from "mongoose";
