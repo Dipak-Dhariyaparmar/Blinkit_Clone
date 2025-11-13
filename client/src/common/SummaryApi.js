@@ -1,4 +1,4 @@
-// This component is related to summaryapis
+// This component is related to summaryapi
 
 export const baseURL = import.meta.env.VITE_API_URL;
 
