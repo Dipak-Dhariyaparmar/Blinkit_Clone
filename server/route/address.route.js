@@ -1,4 +1,4 @@
-// This route is related to address
+// This route is related to addres
 
 import { Router } from "express";
 import auth from "../middleware/auth.js";
