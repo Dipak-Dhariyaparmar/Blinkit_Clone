@@ -1,3 +1,5 @@
+// This route is related to address
+
 import { Router } from "express";
 import auth from "../middleware/auth.js";
 import {
@@ -15,4 +17,3 @@ addressRouter.put("/update", auth, updateAddressController);
 addressRouter.delete("/disable", auth, deleteAddresscontroller);
 
 export default addressRouter;
-// This route is related to address
