@@ -1,4 +1,4 @@
-//This Component is related to main pages
+//This Component is related to main page
 
 import { Outlet, useLocation } from 'react-router-dom'
 import './App.css'
