@@ -1,5 +1,4 @@
-
-// This controller is related to the addres
+// This controller is related to the address
 
 import AddressModel from "../models/address.model.js";
 import UserModel from "../models/user.model.js";
@@ -124,5 +123,3 @@ export const deleteAddresscontroller = async (request, response) => {
     });
   }
 };
-
-// This controller is related to the address
