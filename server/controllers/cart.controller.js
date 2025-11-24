@@ -1,4 +1,4 @@
-// This controller is related to the cart
+// This controller is related to the carts
 
 import CartProductModel from "../models/cartproduct.model.js";
 import UserModel from "../models/user.model.js";
