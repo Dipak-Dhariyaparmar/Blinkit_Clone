@@ -1,3 +1,5 @@
+// This controller is related to the carts
+
 import CartProductModel from "../models/cartproduct.model.js";
 import UserModel from "../models/user.model.js";
 
@@ -146,4 +148,4 @@ export const deleteCartItemQtyController = async (request, response) => {
     });
   }
 };
-// This controller is related to the cart
+
