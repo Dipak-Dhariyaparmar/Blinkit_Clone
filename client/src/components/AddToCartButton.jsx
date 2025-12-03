@@ -1,3 +1,5 @@
+// This component is related to AddToCartButton
+
 import React, { useEffect, useState } from "react";
 import { useGlobalContext } from "../provider/GlobalProvider";
 import Axios from "../utils/Axios";
@@ -116,4 +118,4 @@ const AddToCartButton = ({ data }) => {
 
 export default AddToCartButton;
 
-// This component is related to AddToCartButton
+
