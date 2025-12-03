@@ -1,4 +1,4 @@
-// This component is related to AddToCartButtons
+// This component is related to AddToCartButton
 
 import React, { useEffect, useState } from "react";
 import { useGlobalContext } from "../provider/GlobalProvider";
