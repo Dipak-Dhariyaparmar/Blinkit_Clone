@@ -1,4 +1,4 @@
-//This component is a admin middlewares
+//This component is a admin middleware
 
 import UserModel from "../models/user.model.js"
 
