@@ -1,3 +1,5 @@
+//This component is a admin middlewares
+
 import UserModel from "../models/user.model.js"
 
 export const admin = async(request,response,next)=>{
